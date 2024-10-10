@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(23,6): warning C4101: d: неиспользованная локальная переменная
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(40,7): warning C4101: b: неиспользованная локальная переменная
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(38,6): warning C4101: d: неиспользованная локальная переменная
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(53,7): warning C4101: c: неиспользованная локальная переменная
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(52,6): warning C4101: d: неиспользованная локальная переменная
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(87,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(91,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(85,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(63): warning C4716: ramochka: должна возвращать значение
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(46): warning C4716: t03: должна возвращать значение
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(17): warning C4716: t01: должна возвращать значение
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(32): warning C4716: t02: должна возвращать значение
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(79): warning C4716: t1: должна возвращать значение
+C:\Users\TEMP.1411-09.005\source\repos\Project1\Project1\Source.c(95): warning C4716: a1: должна возвращать значение
+  Project1.vcxproj -> C:\Users\TEMP.1411-09.005\source\repos\Project1\x64\Debug\Project1.exe
