@@ -1,0 +1,4 @@
+﻿  lab13_dz.c
+D:\VGTU\Homework\lab_13_dz\lab13_dz.c(15,16): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VGTU\Homework\lab_13_dz\lab13_dz.c(24,9): warning C4013: strcat: нет определения; предполагается "extern" с возвратом типа "int"
+  lab_13_dz.vcxproj -> D:\VGTU\Homework\x64\Debug\lab_13_dz.exe
