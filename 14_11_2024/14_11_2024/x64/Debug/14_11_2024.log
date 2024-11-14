@@ -1,0 +1,6 @@
+﻿  ssoursse.c
+C:\Users\TEMP.1411-09.007\source\repos\14_11_2024\14_11_2024\ssoursse.c(20,2): warning C4013: task1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\TEMP.1411-09.007\source\repos\14_11_2024\14_11_2024\ssoursse.c(34,29): warning C4020: calc_elements: слишком много фактических параметров
+C:\Users\TEMP.1411-09.007\source\repos\14_11_2024\14_11_2024\ssoursse.c(62,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\TEMP.1411-09.007\source\repos\14_11_2024\14_11_2024\ssoursse.c(41): warning C4716: task1: должна возвращать значение
+  14_11_2024.vcxproj -> C:\Users\TEMP.1411-09.007\source\repos\14_11_2024\x64\Debug\14_11_2024.exe
