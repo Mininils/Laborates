@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\student\source\repos\lab__16\lab__16\Source.c(3,1): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+C:\Users\student\source\repos\lab__16\lab__16\Source.c(3,1): message : "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+C:\Users\student\source\repos\lab__16\lab__16\Source.c(19,11): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\student\source\repos\lab__16\lab__16\Source.c(33): warning C4715: task1: значение возвращается не при всех путях выполнения
+C:\Users\student\source\repos\lab__16\lab__16\Source.c(19): error C4700: использована неинициализированная локальная переменная "size"
