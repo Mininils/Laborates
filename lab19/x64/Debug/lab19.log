@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\TEMP.1411-09.008\source\repos\Project19\lab19\Source.c(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\TEMP.1411-09.008\source\repos\Project19\lab19\Source.c(1,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+C:\Users\TEMP.1411-09.008\source\repos\Project19\lab19\Source.c(65,37): warning C4013: pow: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\TEMP.1411-09.008\source\repos\Project19\lab19\Source.c(65,41): warning C4013: cos: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\TEMP.1411-09.008\source\repos\Project19\lab19\Source.c(56): warning C4715: task2: значение возвращается не при всех путях выполнения
+C:\Users\TEMP.1411-09.008\source\repos\Project19\lab19\Source.c(36): warning C4715: task1: значение возвращается не при всех путях выполнения
+  lab19.vcxproj -> C:\Users\TEMP.1411-09.008\source\repos\Project19\x64\Debug\lab19.exe
