@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(5,1): warning C4005: RAND_MAX: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(348): message : см. предыдущее определение "RAND_MAX"
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(9,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(15,8): warning C4476: "scanf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(15,15): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(15,15): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(26,29): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(37,30): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(23): warning C4716: task1: должна возвращать значение
+C:\Users\TEMP.1411-09.009\source\repos\lab25\lab25\Source.c(81): warning C4716: task2: должна возвращать значение
+  lab25.vcxproj -> C:\Users\TEMP.1411-09.009\source\repos\lab25\x64\Debug\lab25.exe
